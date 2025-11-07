@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# My Favorite Series 🎬
+# My Favorite Series
 
 ## Peaky Blinders
 - Gangsta in it
